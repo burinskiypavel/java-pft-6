@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="lala" external.linked.project.path="$MODULE_DIR$/../../lala" external.root.project.path="$MODULE_DIR$/../../lala" external.system.id="GRADLE" external.system.module.group="lala" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../lala">
+      <excludeFolder url="file://$MODULE_DIR$/../../lala/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../lala/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../lala/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
