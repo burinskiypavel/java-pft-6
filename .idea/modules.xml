@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressboosWebTests.iml" filepath="$PROJECT_DIR$/.idea/modules/addressboosWebTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbooksWebTests.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbooksWebTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbooksWebTests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbooksWebTests_main.iml" group="addressbooksWebTests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbooksWebTests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbooksWebTests_test.iml" group="addressbooksWebTests" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-pft-6.iml" filepath="$PROJECT_DIR$/.idea/modules/java-pft-6.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-pft-6_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-pft-6_main.iml" group="java-pft-6" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-pft-6_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-pft-6_test.iml" group="java-pft-6" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lala_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lala_main.iml" group="lala" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lala_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lala_test.iml" group="lala" />
     </modules>
   </component>
 </project>

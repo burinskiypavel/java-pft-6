@@ -14,11 +14,11 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/lala" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/addressbooksWebTests" />
         <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/lala" />
+            <option value="$PROJECT_DIR$/addressbooksWebTests" />
           </set>
         </option>
       </GradleProjectSettings>
